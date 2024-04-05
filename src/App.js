@@ -1,11 +1,11 @@
 import './App.css'
-import ContactInfo from './components/ContactInfo'
 import WhatPeopleSay from './components/CarouselForReviews'
 import Logo from './components/Logo'
 import PageUpScrollButton from './components/PageUpButton'
 import { MdOutlinePlace } from "react-icons/md";
 import { IoMdPerson } from "react-icons/io";
 import { MdOutlineWatchLater } from "react-icons/md";
+import ContactInfo from './components/ContactInfo';
 
 function App() {
   return (

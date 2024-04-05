@@ -7,8 +7,10 @@ module.exports = {
     extend: {
       colors: {
         primary: '#ffb606',
-        secondary: '#2a4856',
-        pseudo: 'white'
+        secondary: '#859c34',
+        pseudo: '#fff',
+        secondaryLight:'#606060'
+
       },
       screens: {
         'sm': '640px',
